@@ -79,7 +79,7 @@ To view and interact with the dashboard:
 ```bash
 git clone (https://github.com/EngrIBGIT/Digital-Marketing-Analytics-Power-BI-project).git 
 ```
-2.  Open the Digital_Marketing_Analytics2222.pbix file in Power BI Desktop.
+2.  Open the Digital_Marketing_Analytics2222.pbix [file](https://github.com/EngrIBGIT/Digital-Marketing-Analytics-Power-BI-project./blob/main/Digital_Marketing_Analytics2222%20-%20Copy.pbix) in Power BI Desktop.
 3. Explore the different pages of the dashboard to gain insights into FreshCart's ad performance across platforms.
 
 ## Future Work
